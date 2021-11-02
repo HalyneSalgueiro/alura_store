@@ -3,10 +3,14 @@ Curso Alura Store / Concluído
 
 CSS Grid: Simplificando layouts
 
-Fizemos a construção do layout do site Alura Store, do zero. Conseguimos criar um template com cabeçalho, todas as informações que habitam o site e, por fim, o rodapé.
+Foi feito a construção do layout do site Alura Store, do zero.
 
-Por meio do CSS Grid Layout conseguimos estabelecer o posicionamento de cada sessão do site. Para a construção da parte de "destaques" definimos um grid com diversas colunas e linhas e difirnimos a posição de elemento por elemento.
+O projeto era criar um template com cabeçalho, todas as informações que habitam o site e, por fim, o rodapé.
 
-Utilizamos a mesma técnica para montar os cards populares, organizando o cabeçalho e conteúdo de cada um deles.
+Por meio do CSS Grid Layout estabelecido e o posicionamento de cada sessão do site. Para a construção da parte de "destaques" foi definido um grid com diversas colunas e linhas e a posição de elemento por elemento.
 
-Além de todo o processo de construção dos grids, também trabalhamos com responsividade. Dessa maneira, o site se torna funcionou em telas maiores ou menores, o tornando, além disso, mobile friendly.
+A mesma técnica para montar os cards populares, organizando o cabeçalho e conteúdo de cada um deles.
+
+Além de todo o processo de construção dos grids, também foi trabalhado com responsividade.
+
+Dessa maneira, o site se torna e funcionou em telas maiores ou menores, se o tornando, além disso, mobile friendly.
