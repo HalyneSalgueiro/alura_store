@@ -1,8 +1,8 @@
 @media screen and (min-width: 0) {
-    .destaques__principal, .destaques__categorias {
+destaques__principal, .destaques__categorias {
         grid-column: 1 / 5;
 } 
-    .destaques__secundario:nth-child(2) {
+.destaques__secundario:nth-child(2) {
         display: none;
         grid-column: none;
         grid-row: none;
